@@ -17,7 +17,7 @@
   <properties>
     <spring-cloud.version>2020.0.1</spring-cloud.version>
     <project.build.generatedSourceDirectory>generated</project.build.generatedSourceDirectory>
-    <swagger-core.version>1.5.20</swagger-core.version>
+    <swagger-core.version>1.6.2</swagger-core.version>
     <swagger-codegen-maven-plugin.groupId>io.swagger</swagger-codegen-maven-plugin.groupId>
     <swagger-codegen-maven-plugin.version>2.4.10</swagger-codegen-maven-plugin.version>
     <exec-maven-plugin.version>3.0.0</exec-maven-plugin.version>
